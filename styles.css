@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+}
+
+#inputBox {
+    margin: 1%;
+    padding: 1%;
+    border: ridge black .5px;
+    background: silver;
+    column-count: 2;
+}
+
+button {
+    top: 3px;
+    right: 8px;
+    float: right;
+    background-repeat: no-repeat;
+    outline: none;
+}
+
+body {
+background-image: url(money.jpg);
+background-size: cover;
+}
+
+h5 {
+    font-size: 125%;
+}
+
+#notes {
+    font-size: 150%;
+}
