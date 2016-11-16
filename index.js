@@ -1,5 +1,3 @@
- function clearTextBoxes();
-
 var denominations = [
     { name: 'hundreds', value: 100 },
     { name: 'fifties', value: 50 },
